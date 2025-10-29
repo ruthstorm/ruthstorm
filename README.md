@@ -43,6 +43,6 @@ ___
 
 ## Contact
 - LinkedIn: [stormruth](https://www.linkedin.com/in/stormruth/)
-- Website: [www.ruthstorm](https://www.ruthstorm.com)
+- Website: [www.ruthstorm.com](https://www.ruthstorm.com)
 
 
