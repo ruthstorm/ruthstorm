@@ -14,7 +14,7 @@ Welcome! Much of my GitHub history reflects enterprise development, and prior to
 
 - **polar-expositon-2008** — A very old web project brought to life.  
   Languages: • HTML • CSS/SCSS • JavaScript • JQuery  
-  Quick links: • [Repo](https://github.com/ruthstorm/polar-exposition-2008) • [Demo](https://ruthstorm.github.io/polar-exposition-2008) • [Docs](https://github.com/ruthstorm/polar-exposition-2008#readme)
+  Quick links: • [Repo](https://github.com/ruthstorm/polar-expedition-2008) • [Demo](https://ruthstorm.github.io/polar-exposition-2008) • [Docs](https://github.com/ruthstorm/polar-exposition-2008#readme)
 
 
 ---
