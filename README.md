@@ -23,20 +23,20 @@ Welcome! Much of my GitHub history reflects enterprise development, and prior to
 
 <!-- HTML to sie and align the icons -->
 <p align="left">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="96" height="96" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="96" height="96" title="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/angular/E23237" alt="Angular" width="96" height="96" title="Angular" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" width="96" height="96" title="Redux" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/html5/CC6699" alt="Angular" width="96" height="96" title="Angular" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/sass/E34F26" alt="Sass" width="96" height="96" title="Sass" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/css/663399" alt="CSS" width="96" height="96" title="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/storybook/FF4785" alt="Storybook" width="96" height="96" title="Storybook" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/figma/F24E1#" alt="Figma" width="96" height="96" title="Figma" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/git/F5032" alt="Git" width="96" height="96" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/github/CC6699" alt="GitHub" width="96" height="96" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" width="96" height="96" title="GitHub Copilot" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/googleanalytics/E37400" alt="Google Analytics" width="96" height="96" title="Google Analytics" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/fontawesome/538DD7" alt="Font Awesome" width="96" height="96" title="Font Awesome" />  
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="66" height="66" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="66" height="66" title="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/angular/E23237" alt="Angular" width="66" height="66" title="Angular" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" width="66" height="66" title="Redux" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/html5/CC6699" alt="Angular" width="66" height="66" title="Angular" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/sass/E34F26" alt="Sass" width="66" height="66" title="Sass" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/css/663399" alt="CSS" width="66" height="66" title="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/storybook/FF4785" alt="Storybook" width="66" height="66" title="Storybook" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/figma/F24E1#" alt="Figma" width="66" height="66" title="Figma" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/git/F5032" alt="Git" width="66" height="66" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/github/CC6699" alt="GitHub" width="66" height="66" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" width="66" height="66" title="GitHub Copilot" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/googleanalytics/E37400" alt="Google Analytics" width="66" height="66" title="Google Analytics" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/fontawesome/538DD7" alt="Font Awesome" width="66" height="66" title="Font Awesome" />  
 </p>
 
 ___
