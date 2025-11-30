@@ -12,7 +12,7 @@ Welcome! Much of my GitHub history reflects enterprise development, and prior to
   Languages: • HTML • CSS/SCSS • JavaScript • JQuery   
   Quick links: • [WebSite](https://www.ruthstorm.com) • [GitHub](https://github.com/ruthstorm/portfolio) • [Docs](https://github.com/ruthstorm/portfolio#readme)
 
-- **polar-expositon-2008** — A very old web project brought to life.  
+- **arctic-to-tropic-2008** — A very old web project brought to life.  
   Languages: • HTML • CSS/SCSS • JavaScript • JQuery  
   Quick links: • [Repo](https://github.com/ruthstorm/arctic-to-tropic-2008) • [Demo](https://ruthstorm.github.io/arctic-to-tropic-2008) • [Docs](https://github.com/ruthstorm/arctic-to-tropic#readme)
 
